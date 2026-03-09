@@ -1,0 +1,16 @@
+Hy01;  Banzai; 4 years old; born in spring; tan color; female; 70 pounds; from Friguia; Tunisia.
+Hy01;  Banzai; 12 years old; born in fall; brown color; male; 150 pounds; from Friguia; Tunisia.
+Hy01;  Banzai; 4 years old; born in spring; black color; male; 120 pounds; from Friguia; Tunisia.
+Hy01;  Banzai; 8 years old; born in unknown; black and tan striped color; female; 105 pounds; from Friguia; Tunisia.
+Li01;  Mufasa; 6 years old; born in spring; tan color; female; 300 pounds; from Zanzibar; Tanzania.
+Li02;  Mufasa; 12 years old; born in winter; dark tan color; female; 375 pounds; from KopeLion; Tanzania.
+Li03;  Mufasa; 22 years old; born in fall; golden color; male; 450 pounds; from Zanzibar; Tanzania.
+Li04;  Mufasa; 4 years old; born in spring; tan and brown color; female; 275 pounds; from KopeLion; Tanzania.
+Ti01;  Tigger; 2 years old; born in spring; gold and tan stripes color; male; 270 pounds; from Dhaka; Bangladesh.
+Ti02;  Tigger; 4 years old; born in spring; black stripes color; female; 400 pounds; from Dhaka; Bangladesh.
+Ti03;  Tigger; 18 years old; born in fall; gold and tan color; male; 300 pounds; from Bardia; Nepal.
+Ti04;  Tigger; 3 years old; born in spring; black stripes color; female; 285 pounds; from Bardia; Nepal.
+Be01;  Smokey; 7 years old; born in spring; brown color; male; 320 pounds; from Alaska; Alaska.
+Be02;  Smokey; 25 years old; born in spring; black color; female; 425 pounds; from Woodland; Washington .
+Be03;  Smokey; 4 years old; born in fall; black color; female; 355 pounds; from Woodland; Washington .
+Be04;  Smokey; 4 years old; born in spring; brown color; male; 405 pounds; from Alaska; Alaska.
